@@ -1,0 +1,28 @@
+.yellow {
+  background-color: yellow;
+  height: 300px;
+}
+.brown {
+  background-color: #A52A2A;
+  height: 300px;
+}
+.purple {
+  background-color: purple;
+  height: 300px;
+}
+.blue {
+  background-color: blue;
+  height: 300px;
+}
+.red{
+  background-color: red;
+  height: 300px;
+}
+.orange{
+    background-color: orange;
+  height: 300px;
+}
+.cool-text{
+  font-size: 50px;
+  color: black;
+}
